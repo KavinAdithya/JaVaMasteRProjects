@@ -1,3 +1,5 @@
+package JaVaMasteR.BankSerVerProject;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +9,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import proMini.OwnException;
+
 public abstract class AccountHolders implements BasicAccountHolderOperation {
     public String name;
     public byte age;

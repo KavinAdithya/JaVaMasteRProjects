@@ -1,3 +1,5 @@
+package JaVaMasteR.BankSerVerProject;
+
 public class OwnException extends Exception{
     String s;
 

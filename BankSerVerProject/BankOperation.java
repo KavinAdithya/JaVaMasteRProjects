@@ -1,3 +1,5 @@
+package JaVaMasteR.BankSerVerProject;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.BufferedWriter;
